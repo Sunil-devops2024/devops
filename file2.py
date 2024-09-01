@@ -1,0 +1,1 @@
+hi i am developing first code of python and learnig 
